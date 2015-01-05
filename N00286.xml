@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000364_0000_0FA558AD0BDBEF38"/>
-            <pb facs="tcp:000364_0001_0FA558AD1BAC4E08"/>
+            <pb facs="unknown:000364_0000_0FA558AD0BDBEF38"/>
+            <pb facs="unknown:000364_0001_0FA558AD1BAC4E08"/>
             <head>
                <figure/> AT A General Court Held at <hi>Boston,</hi>
                <date>
